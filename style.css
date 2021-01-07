@@ -1,0 +1,184 @@
+body{
+  font-family: 'Oswald', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   margin: 0px;
+   padding: 0px;
+}
+
+
+.main-manu{
+  font-size: 15px;
+  text-align: end;
+  padding-right: 10px;
+}
+h1{
+  font-size: 25px;
+  color: rgb(34, 82, 45);
+}
+.text{
+  color: hsla(191, 38%, 89%, 0.534);
+  text-decoration:none;
+  padding: 5px 5px;
+}
+.link-header{
+  color: hsl(0, 53%, 58%);
+  font-size: 30px;
+}
+.half-width{
+  width: 40%;
+  margin-left: 20px;
+  padding-left: 10px;
+  float: left;
+}
+.half-width img{
+  width: 100%;
+}
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon,tomato
+  );
+  padding: 10px 20px;
+  border-radius: 5px;
+  color:white;
+  font-weight:700;
+}
+nav {
+  display:ruby;
+  bottom: auto;
+    left: 0;
+    border-bottom: 3px solid #070d64;
+    background: #222427;
+  
+}
+a:hover{
+  color: black;
+  background-color: cornflowerblue;
+}
+.first-backround{
+  background-color:whitesmoke;
+  background-repeat:no-repeat;
+  /* border: 2px solid red; */
+  height: 600px;
+  width: 100%;
+}
+
+h2{
+  font-size: 30px;
+  color: darkslategrey;
+  font-family:fantasy;
+}
+.second-section{
+  /* border: 5px solid green; */
+  height: 600px;
+  width: 100%;
+  background-color: rgb(255, 241, 241);
+}
+.latest-section{
+  /* border: 5px solid yellow; */
+  background-color: hsl(120, 46%, 82%);
+  height: 600px;
+  width: 100%;
+}
+.latest-section h3{
+  text-align: center;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: fantasy;
+    font-size: 30px;
+    color: darkslategrey;
+    
+}
+.box-text h1{
+    text-align: center;
+
+}
+.latest-section h3 span{
+  color: rgb(9, 82, 72);
+}
+.main-box{
+  height: 400px;
+  background-color: rgb(42, 155, 112);
+  /* border: 2px solid black; */
+  width: 80%;
+  margin-left: 90px;
+}
+.box{
+  height: 80%;
+  color: dimgray;
+  width: 30%;
+  margin: 5px;
+  background-color:whitesmoke;
+  /* border:5px solid rgb(189, 67, 67); */
+  float: left;
+}
+.box img{
+  width: 50%;
+}
+.box h5{
+  color: tomato;
+  font-size: 20px;
+  font-family: fantasy;
+}
+.back-design{
+  /* border: 5px solid black; */
+  background: rgba(153, 158, 160, 0.692);
+  height: 200px;
+  width: 80%;
+  margin-left:30px;
+  background-image: url("images/suhad1.png");
+  margin-left: 20px;
+  padding-left: 100px;
+}
+.work h6{
+  font-size:larger;
+  color: rgb(227, 248, 248);
+  padding: 60px 100px;
+}
+.go{
+  font-size: medium;
+  font-family: serif;
+  text-align:right;
+  text-decoration: lightgreen;
+  text-transform: unset;
+  display: inline-block;
+  padding-left:160px;
+  background-position: right;
+
+}
+.last-step{
+  height: 200px;
+  width: 100%;
+  /* border: 5px solid yellowgreen; */
+  background-color: teal;
+  color: ghostwhite;
+}
+.foot{
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(147, 155, 151);
+  font-size: 15px;
+  font-family: fantasy;
+  padding-top: 20px;
+  margin-top: 8px;
+}
+.mail{
+      text-align: center;
+      text-decoration: dimgray;
+      text-transform:uppercase;
+      padding-top:5px;
+      color: rgb(176, 187, 183);
+      font-family: fantasy;
+}
+.buttom{
+  text-align: center;
+  image-orientation:unset;
+  text-decoration: none;
+  
+ 
+}
+.middle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:2px;
+}
